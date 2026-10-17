@@ -1,0 +1,8 @@
+name = "lt-vero-commerce"
+main = "backend/worker.js"
+compatibility_date = "2026-09-11"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "lt-vero-production"
+database_id = "REPLACE_WITH_CLOUDFLARE_D1_DATABASE_ID"
